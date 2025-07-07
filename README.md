@@ -1,7 +1,1 @@
-tagada
-KARIMA
-waw
-
-NEWCONFLIT
-test
- 
+** Ceci est le super readme de collaboration, wahouuu
